@@ -16,6 +16,7 @@ Olá! Meu nome é **Davi Carvalho**, sou um profissional de TI com mais de **5 a
 </p>
 
 ✔️ **Segurança Cibernética**  
+✔️ **Auditoria de Segurança**  
 ✔️ **Python**  
 ✔️ **Redes e Infraestrutura**  
 ✔️ **Suporte Técnico e Atendimento ao Cliente**  
@@ -27,6 +28,25 @@ Olá! Meu nome é **Davi Carvalho**, sou um profissional de TI com mais de **5 a
 💡 Estou sempre buscando **aprimorar minhas habilidades** e acompanhar as **tendências tecnológicas**. Meu objetivo é atuar em projetos desafiadores que envolvam **segurança digital**, **análise de vulnerabilidades** e **proteção de dados**.
 
 ---
+📂 Projetos
+
+🔍 Auditoria de Segurança
+
+Realizei uma auditoria de segurança cibernética baseada no NIST CSF para avaliar riscos, identificar vulnerabilidades e garantir conformidade com padrões como PCI DSS e GDPR.
+
+Principais aspectos abordados:
+
+Identificação de ameaças e lacunas de segurança.
+
+Aplicação da estrutura do NIST CSF e conformidade com PCI DSS, GDPR e SOC.
+
+Avaliação de permissões de usuário e políticas de gestão de senhas.
+
+Uso de checklists para verificar o cumprimento dos padrões regulatórios.
+
+Planejamento de resposta a privacidade de dados e recuperação de desastres.
+
+Mais detalhes sobre essa auditoria podem ser encontrados [aqui](https://github.com/dcmdavi/Auditoria-de-Seguran-a-/edit/main/README.md)  .
 
 ### 📂 Contato e Conexões
 
@@ -35,16 +55,13 @@ Olá! Meu nome é **Davi Carvalho**, sou um profissional de TI com mais de **5 a
 🐙 **GitHub:** [github.com/dcmdavi](https://github.com/dcmdavi)  
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img align="left" alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=dcmdavi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="GitHub Top Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcmdavi&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6" />
-</p>
-
----
-
 ### 📜 Licença
 
 📌 Este perfil está em constante **evolução**, assim como meu aprendizado! Sinta-se à vontade para **entrar em contato** e trocar ideias sobre **tecnologia e inovação**.
+
+---
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img align="left" alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=dcmdavi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> 
+
