@@ -30,23 +30,8 @@ Olá! Meu nome é **Davi Carvalho**, sou um profissional de TI com mais de **5 a
 ---
 📂 Projetos
 
-🔍 Auditoria de Segurança
+🔍 [**Auditoria de Segurança**](https://github.com/dcmdavi/Auditoria-de-Seguran-a-/edit/main/README.md)
 
-Realizei uma auditoria de segurança cibernética baseada no NIST CSF para avaliar riscos, identificar vulnerabilidades e garantir conformidade com padrões como PCI DSS e GDPR.
-
-Principais aspectos abordados:
-
-Identificação de ameaças e lacunas de segurança.
-
-Aplicação da estrutura do NIST CSF e conformidade com PCI DSS, GDPR e SOC.
-
-Avaliação de permissões de usuário e políticas de gestão de senhas.
-
-Uso de checklists para verificar o cumprimento dos padrões regulatórios.
-
-Planejamento de resposta a privacidade de dados e recuperação de desastres.
-
-Mais detalhes sobre essa auditoria podem ser encontrados [aqui](https://github.com/dcmdavi/Auditoria-de-Seguran-a-/edit/main/README.md)  .
 
 ### 📂 Contato e Conexões
 
